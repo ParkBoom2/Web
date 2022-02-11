@@ -38,7 +38,7 @@
     <div>
       <input id="sf_draw_type" type="hidden" value="pc" /><input
         id="sf_store_name"
-        type="hidden"
+        type="hidden" 
         value="superstari"
       />
     </div>
